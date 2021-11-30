@@ -1,1 +1,25 @@
 
+{
+    "Habitacion Principal":  [
+      {
+        "id": "LampHp",
+        "name": "Lampara",
+        "description": "Encendida"
+      },
+      {
+        "id": "FocoHp",
+        "name": "Foco",
+        "description": "Encendido"
+      },
+      {
+        "id": "PerHp",
+        "name": "Persiana",
+        "description": "Abierta"
+      },
+      {
+        "id": "TemHp",
+        "name": "Temperatura",
+        "description": "30°"
+      }
+    ]
+  }
