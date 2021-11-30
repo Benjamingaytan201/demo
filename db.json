@@ -1,4 +1,5 @@
-[
+{
+  "publicaciones": [
     {
       "id": 1,
       "title": "Publicación 1"
@@ -11,4 +12,20 @@
       "id": 3,
       "title": "Publicación 3"
     }
- ]
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "cuerpo": "algún comentario",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "cuerpo": "algún comentario",
+      "postId": 1
+    }
+  ],
+  "perfil": {
+    "nombre": "typicode"
+  }
+}
